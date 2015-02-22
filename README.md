@@ -2,8 +2,8 @@
 
 This is a repo for "Getting and Cleaning Data" Course Project.
 
-The main file here is the script file run_analysis.R.
-The script works if the UCI HAR Dataset folder is unpacked into the working directory.
+The main file here is the script file run_analysis.R.<br>
+The script works if the UCI HAR Dataset folder is unpacked into the working directory.<br>
 The script does the following:
 
 
