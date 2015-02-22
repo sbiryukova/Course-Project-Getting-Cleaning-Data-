@@ -1,6 +1,6 @@
 <h1>The script file</h1>
 
-The script works if the UCI HAR Dataset folder is unpacked into the working directory.<br>
+The script works if the UCI HAR Dataset folder is unpacked into the default working directory.<br>
 The script does the following:
 <ul><li type=none>It merges the training and the test data into one data set.
 <li type=none>Then it extracts the variables with the mean and standard deviation for each measurement. 
