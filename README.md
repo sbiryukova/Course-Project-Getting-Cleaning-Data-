@@ -1,2 +1,3 @@
-# Course-Project-Getting-Cleaning-Data-
-A repo for "Getting and Cleaning Data" Course Project
+# Course Project (Getting & Cleaning Data Course)
+
+This is a repo for "Getting and Cleaning Data" Course Project.
