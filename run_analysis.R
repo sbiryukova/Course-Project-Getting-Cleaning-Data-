@@ -6,7 +6,7 @@ library(plyr)
 setwd(paste(getwd(), "/", "UCI HAR Dataset", sep=""))
 
 #STEP 1
-#Read the test & train data keeping in mind that we don't have any variable names in the 1st row
+#Read the test & train data
 #Train data
 train <- read.table("./train/X_train.txt")
 #Test data
