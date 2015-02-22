@@ -1,4 +1,4 @@
-<b>The script file</b>
+<b><font size=12>The script file</font></b>
 
 The script works if the UCI HAR Dataset folder is unpacked into the working directory.<br>
 The script does the following:
