@@ -15,4 +15,4 @@ The script does the following:
 <li type=none>It takes the descriptive activity names and uses it to name the activities in the data set.
 <li type=none>It labels the data set with descriptive variable names. 
 <li type=none>And, finally, it creates an independent tidy data set with the average of each variable for each activity and each subject.</ul><br>
-The script itself contains detailed comments on each step of the process.
+The script itself contains some extra comments about each step of the process.
