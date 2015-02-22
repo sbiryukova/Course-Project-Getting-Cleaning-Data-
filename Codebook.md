@@ -9,5 +9,5 @@ Finally, means of the variables selected were calculated for all the observation
 <h1>Variables in the output file</h1>
 The output file contains 68 variables.<br>
 Two of them are grouping variables (SubjectID & Activity_Name).<br>
-Other 66 variables are group means of means and standard deviations of different measurements 
+Other 66 variables are group means of means and standard deviations of different measurements.<br> 
 Variable names provided in the file contain complete information on their meaning.
